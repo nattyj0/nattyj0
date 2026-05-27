@@ -8,7 +8,7 @@
   <a href="https://nattyj.co.uk/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-nattyj.co.uk-7A86FB?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nathan-johnson-1b8253bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan%20Johnson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/nattyj0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-nattyj0-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://x.com/nattyj_0"><img alt="X" src="https://img.shields.io/badge/X-nattyj__0-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://x.com/Nathan_J0hnson"><img alt="X" src="https://img.shields.io/badge/X-nattyj__0-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="mailto:nathan@nattyj.co.uk"><img alt="Email" src="https://img.shields.io/badge/Email-nathan%40nattyj.co.uk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
