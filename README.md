@@ -18,7 +18,7 @@ I'm Nathan Johnson, also known as NattyJ_. I'm an Operations Director working ac
 
 My work focuses on the practical side of building healthy online communities: player experience, staff coordination, public communication, operational routines, launch preparation, and keeping community projects moving clearly from idea to delivery.
 
-I'm currently Operations Director at [Acheron Interactive](https://acheroninteractive.com/), supporting work across MineSuperior, Daedric Networks, and EarthboundMC.
+I'm currently Operations Director at [Acheron Interactive](https://acheroninteractive.com/), supporting work across MineSuperior, Daedric Networks.
 
 ## What I Do
 
