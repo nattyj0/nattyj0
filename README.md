@@ -1,4 +1,4 @@
-# Hi, I'm Nathan Johnson - NattyJ_
+# Hi, NattyJ_
 
 <p align="center">
   <img src="https://nattyj.co.uk/nattyj-banner.png" alt="NattyJ_ banner" width="100%">
