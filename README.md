@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://nattyj.co.uk/nattyj-banner.png" alt="NattyJ_ banner" width="100%">
-@@ -8,37 +8,37 @@
+
 <a href="https://nattyj.co.uk/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-nattyj.co.uk-7A86FB?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nathan-johnson-1b8253bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan%20Johnson-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/nattyj0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-nattyj0-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -56,7 +56,7 @@ I'm currently Operations Director at [Acheron Interactive](https://acheronintera
 
 | Project | Role | Focus |
 | --- | --- | --- |
-@@ -47,6 +47,12 @@ I'm currently Operations Director at [Acheron Interactive](https://acheronintera
+I'm currently Operations Director at [Acheron Interactive](https://acheroninteractive.com)
 | [Fruitville](https://store.fruitville.org/) | Plugin Configuration | One-month freelance Minecraft plugin configuration project |
 | ShipwreckMC | Owner / Founder | Minecraft network concept, branding, operations, community setup, and launch preparation |
 
@@ -69,7 +69,7 @@ Current examples include Acheron Interactive, MineSuperior, Daedric Networks, Ea
 ## Background
 
 I graduated with a BA (Hons) International Esports Business and Digital Media from University Campus of Esports, formerly College of Esports.
-@@ -68,13 +74,17 @@ Before moving deeper into Minecraft network operations, I built early experience
+Before moving deeper into Minecraft network operations, I built early experience on the ROBLOX platform
 <a href="https://nattyj.co.uk/"><img alt="Website" src="https://img.shields.io/badge/Website-nattyj.co.uk-7A86FB?style=flat&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nathan-johnson-1b8253bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nathan%20Johnson-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/nattyj0"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%40nattyj0-181717?style=flat&logo=github&logoColor=white"></a>
