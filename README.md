@@ -14,7 +14,6 @@
 
 ## About Me
 
-I'm Nathan Johnson, also known as NattyJ_. I'm an Operations Director working across Minecraft networks, gaming communities, esports, and digital media.
 I'm Nathan Johnson, also known as NattyJ_. I'm an Operations Director working across community operations, digital media, communications, online platform management, and technology-led communities.
 
 My work focuses on the practical side of building healthy online communities: player experience, staff coordination, public communication, operational routines, launch preparation, and keeping community projects moving clearly from idea to delivery.
