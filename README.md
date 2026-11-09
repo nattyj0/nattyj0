@@ -1,4 +1,3 @@
-# Hi, NattyJ_
 # Hi, I'm Nathan Johnson - NattyJ_
 
 <p align="center">
